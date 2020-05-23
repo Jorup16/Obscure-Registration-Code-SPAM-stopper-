@@ -39,7 +39,7 @@ $lang = array_merge($lang, array(
 
 	'OBSCUREREGISTRATIONCODE_BG_ON'				=>'Colorea el fondo del código de registro',
 	'OBSCUREREGISTRATIONCODE_BG_ON_EXPLAIN'		=>'Si se establece en "NO", es posible que deba cambiar el color de fuente predeterminado',
-P&R
+
 	'OBSCUREREGISTRATIONCODE_BG'				=>'Color de fondo del código de registro',
 	'OBSCUREREGISTRATIONCODE_BG_EXPLAIN'		=>'Seleccione el color de fondo del código de registro',
 	'OBSCUREREGISTRATIONCODE_COLOUR'			=>'Haga clic en el cuadro para seleccionar el color',
